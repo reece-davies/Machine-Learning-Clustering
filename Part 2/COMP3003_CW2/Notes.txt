@@ -1,0 +1,21 @@
+https://www.researchgate.net/post/Can_anyone_help_me_to_understand_what_the_target_is_in_neural_network
+
+Target, T, is the desired output for the given input, X.
+Train the network with known input (X) and target (T).
+The output of the resulting design, given the input, is output , Y.
+The error is e = T-Y. Of course the most common ultimate goal of training is to minimize the mean-squared-error.
+
+
+https://uk.mathworks.com/help/matlab/math/array-indexing.html
+
+https://uk.mathworks.com/help/deeplearning/ref/trainlm.html
+
+
+
+
+// Things to talk about in section G
+Number of neurons
+How to change parameters
+Epochs
+Max fail
+Min gradient

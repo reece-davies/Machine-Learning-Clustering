@@ -1,0 +1,4 @@
+Kmeans				https://uk.mathworks.com/help/stats/kmeans.html
+Kmeans without toolbox		https://uk.mathworks.com/matlabcentral/fileexchange/74216-k-means-clustering-without-using-built-in-function
+Kmeans process explained	https://towardsdatascience.com/k-means-clustering-explained-4528df86a120#:~:text=K%2Dmeans%20clustering%20aims%20to,methods%20to%20measure%20the%20distance.
+Centroid calculations		https://www.datasciencecentral.com/profiles/blogs/steps-to-calculate-centroids-in-cluster-using-k-means-clustering
